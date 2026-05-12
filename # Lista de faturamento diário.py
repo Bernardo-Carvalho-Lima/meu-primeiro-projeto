@@ -1,3 +1,4 @@
+
 # Lista de faturamento diário 
 faturamento = [1500, 2300, 800, 4500, 1200, 3100, 500]
 
